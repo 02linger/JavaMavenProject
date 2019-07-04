@@ -1,4 +1,4 @@
-package com.jerry.study.collection;
+package com.jerry.study.collection.sort;
 
 import java.util.TreeSet;
 
